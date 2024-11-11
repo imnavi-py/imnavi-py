@@ -1,8 +1,10 @@
-👀 Exploring: The intersection of AI and web development
-🌱 Currently learning: Vue.js and Django to build seamless user experiences
-💻 Favorite tech stack: Python, Django, and Vue
-💬 Let's discuss: Full-stack development, AI, and innovative web solutions
-⚡ Fun fact: I’m a night owl coder; most of my ideas come at 3 AM! 🌙
+# Hello World! 🌍 I’m @imnavi-py
+
+- 👀 **Exploring:** The intersection of AI and web development
+- 🌱 **Currently learning:** Vue.js and Django to build seamless user experiences
+- 💻 **Favorite tech stack:** Python, Django, and Vue
+- 💬 **Let's discuss:** Full-stack development, AI, and innovative web solutions
+- ⚡ **Fun fact:** I’m a night owl coder; most of my ideas come at 3 AM! 🌙
 
 <!---
 imnavi-py/imnavi-py is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
