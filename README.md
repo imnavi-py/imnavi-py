@@ -1,4 +1,4 @@
-# Hello World! 🌍 I’m @imnavi-py
+# Hello World! 🌍 I’m navi
 
 - 👀 **Exploring:** The intersection of AI and web development
 - 🌱 **Currently learning:** Vue.js and Django to build seamless user experiences
